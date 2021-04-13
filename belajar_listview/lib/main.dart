@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
                   },
                 ),
                 RaisedButton(
-                    child: Text("Hapus Data"),
+                    child: Text("Hapus data"),
                     onPressed: () {
                       setState(() {
                         widgets.removeLast();
