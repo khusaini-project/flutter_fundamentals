@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Belajar Container"),
+          title: Text("Belajar container"),
         ),
         body: Container(
           color: Colors.red,
