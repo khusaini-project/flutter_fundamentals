@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Latihan Row dan Column"),
+          title: Text("Latihan Row Dan Column"),
         ),
         // body: Column(
         //   mainAxisAlignment: MainAxisAlignment.center,
