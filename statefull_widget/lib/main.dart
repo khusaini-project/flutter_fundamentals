@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Stateful Widget Demo"),
+          title: Text("Stateful widget Demo"),
         ),
         body: Center(
           child: Column(
