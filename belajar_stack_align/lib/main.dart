@@ -61,7 +61,7 @@ class MyApp extends StatelessWidget {
                     Container(
                       margin: EdgeInsets.all(10),
                       child: Text(
-                        "Ini adalah text yang ada di lapisan tengah dari Stack",
+                        "Ini Adalah text yang ada di lapisan tengah dari Stack",
                         style: TextStyle(fontSize: 30),
                       ),
                     ),
