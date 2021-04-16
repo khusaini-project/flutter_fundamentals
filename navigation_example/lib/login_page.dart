@@ -7,7 +7,7 @@ class  LoginPage  memperluas  StatelessWidget {
     kembali  Perancah (
       tubuh :  Pusat (
         anak :  RaisedButton (
-          anak :  Teks ( "LOGIN" ),
+          anak :  Teks ( "LOGINN" ),
           onPressed : () {
             Navigator . pushReplacement (konteks,
                 MaterialPageRoute (builder : (konteks) {

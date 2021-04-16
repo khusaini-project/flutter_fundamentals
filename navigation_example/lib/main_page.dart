@@ -6,7 +6,7 @@ class  MainPage  memperluas  StatelessWidget {
   Widget  membangun ( BuildContext konteks) {
     kembali  Perancah (
       appBar :  AppBar (
-        judul :  Teks ( "Halaman Utama" ),
+        judul :  Teks ( "Halaman utama" ),
       ),
       tubuh :  Pusat (
         anak :  RaisedButton (

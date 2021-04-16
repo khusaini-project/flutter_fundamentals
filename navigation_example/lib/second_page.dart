@@ -9,7 +9,7 @@ class  SecondPage  memperluas  StatelessWidget {
       ),
       tubuh :  Pusat (
         anak :  RaisedButton (
-          anak :  Teks ( "Kembali" ),
+          anak :  Teks ( "kembali" ),
           onPressed : () {
             Navigator . pop (konteks);
           },
