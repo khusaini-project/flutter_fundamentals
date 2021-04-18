@@ -28,7 +28,7 @@ class _MyAppState extends State<MyApp> {
                   : "Tidak ada data"),
               RaisedButton(
                 onPressed: () {
-                  PostResult.connectToAPI("Badu", "Dokter").then((value) {
+                  PostResult.connectToAPI("Badu", "dokter").then((value) {
                     postResult = value;
                   User.connectToAPI("5").then((value) {
                     user = value;
