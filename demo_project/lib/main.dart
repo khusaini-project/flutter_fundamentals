@@ -16,7 +16,7 @@ class  MainPage  extends  StatelessWidget {
   Widget  build(BuildContext context) {
     return Scaffold(
       appBar :  AppBar(
-        title :  Text( "Latihan Media Query" ),
+        title :  Text( "LATIHAN Media Query" ),
         ),
       body : (MediaQuery.of(context).orientation == Orientation.portrait
             ? Column(
